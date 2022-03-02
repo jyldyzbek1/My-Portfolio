@@ -1,7 +1,7 @@
 <img width="350px" src="image/jk2.png">
 
 
-## **Hi I'm [Jyldyzbek!](https://jyldyzbek1.github.io/my-developer-site/index.html)** <img width="20" src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif">
+## **Hi I'm [Jyldyzbek!](https://jyldyzbek1.github.io/My-Portfolio/index.html)** <img width="20" src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif">
 ![](https://komarev.com/ghpvc/?username=Jyldyzbek)
 <hr>
 
