@@ -15,8 +15,8 @@
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
 [<img width="180px" align="right" src="https://media.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif">](https://www.linkedin.com/in/erbol-tukashov-630607220/)
 
-### **Contact Me 📲**
+<!-- ### **Contact Me 📲**
 [<img width="50px" src="image/whatsapp-svgrepo-com.svg">](#contact-me-)
 [<img width="50px" src="image/telegram-svgrepo-com.svg">](https://t.me/shatmanov)
-[<img width="45px" src="image/instagram-svgrepo-com%20(1).svg">](https://www.instagram.com/_shatmanov_/)
+[<img width="45px" src="image/instagram-svgrepo-com%20(1).svg">](https://www.instagram.com/_shatmanov_/) -->
 <hr>
