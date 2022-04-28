@@ -1,7 +1,7 @@
 <img width="750px" style="text-align: center" src="image/Animation.gif">
 
 
-## **Hi I'm [Jyldyzbek!](https://jyldyzbek1.github.io/My-Portfolio/index.html)** <img width="20" src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif">
+## **Hi I'm [Jyldyzbek!](https://jyldyzbek1.github.io/My-Portfolio/index.html)** <img width="20" align='center' src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif">
 ![](https://komarev.com/ghpvc/?username=Jyldyzbek)
 <img width="180px" align="right" src="https://media.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif">
 <hr>
