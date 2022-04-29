@@ -1,4 +1,4 @@
-<img width="750px" style="text-align: center" src="image/Animation.gif">
+<img width="750px" style="text-align: center" src="image/Animation1.gif">
 
 
 ## **Hi I'm [Jyldyzbek!](https://jyldyzbek1.github.io/My-Portfolio/index.html)** <img width="20" align='center' src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif">
